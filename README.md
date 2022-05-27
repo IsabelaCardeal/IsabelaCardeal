@@ -22,15 +22,14 @@
 <hr/>
 
 ## No momento eu sou main Python e tenho interesse/estou aprendendo outras cositas mais:
- 
+<p align="center"> 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-
-<p>
+<p/>
 
 <p>
 
@@ -51,20 +50,21 @@
  
  <p></p>
 <hr/>
-
-![Snake animation](https://github.com/IsabelaCardeal/IsabelaCardeal/blob/output/github-contribution-grid-snake.svg)
- 
+<p align="center">
+<img src="https://github.com/IsabelaCardeal/IsabelaCardeal/blob/output/github-contribution-grid-snake.svg">
+<p/>
  
 <hr/>
  
 
 <br/>
-</div>
-<img align="left" src="http://ForTheBadge.com/images/badges/built-with-swag.svg">
- <img align="right" alt="Bela" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102563782/170606682-eacb5d9d-48da-4e7d-902c-5fe34c92b788.gif">
- </div>
-<img align="left" src="https://user-images.githubusercontent.com/102563782/170644840-7d4ff0fd-d4d7-4e21-a7f5-4714eac8060c.svg"> 
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/102563782/170644840-7d4ff0fd-d4d7-4e21-a7f5-4714eac8060c.svg">&nbsp;&nbsp;
+<p/>
+ 
+<p align="center">
+<img alt="Bela" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102563782/170606682-eacb5d9d-48da-4e7d-902c-5fe34c92b788.gif"> 
+<p/>
 
 
-
+ 
